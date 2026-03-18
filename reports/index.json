@@ -1,10 +1,33 @@
 {
   "siteTheme": {
     "ui": "classic",
-    "paletteId": "Berry",
+    "paletteId": "Bubblegum",
     "kineticFont": "default"
   },
   "entries": [
+    {
+      "id": "20260318-201455-rwnt",
+      "title": "Repoez",
+      "commanders": [
+        "Repoez"
+      ],
+      "dateStart": "2026-03-18T12:14:55.000Z",
+      "dateEnd": "2026-03-18T12:19:13.000Z",
+      "dateLabel": "3/18/2026, 8:14:55 PM - 3/18/2026, 8:19:13 PM",
+      "url": "https://Skye-gitgud.github.io/Skye/?report=20260318-201455-rwnt",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 2,
+        "avgEnemySize": 8
+      }
+    },
     {
       "id": "20260318-201455-q33o",
       "title": "Repoez",
