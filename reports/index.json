@@ -1,10 +1,39 @@
 {
   "siteTheme": {
     "ui": "classic",
-    "paletteId": "Bubblegum",
+    "paletteId": "Berry",
     "kineticFont": "default"
   },
   "entries": [
+    {
+      "id": "20260318-205811-tz19",
+      "title": "Josh Atreides, Sinaya Vjestica",
+      "commanders": [
+        "Josh Atreides",
+        "Sinaya Vjestica"
+      ],
+      "dateStart": "2026-03-18T12:58:11.000Z",
+      "dateEnd": "2026-03-18T13:44:37.000Z",
+      "dateLabel": "3/18/2026, 8:58:11 PM - 3/18/2026, 9:44:37 PM",
+      "url": "https://Skye-gitgud.github.io/Skye/?report=20260318-205811-tz19",
+      "summary": {
+        "borderlandsPct": 0.13333333333333333,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 9
+      }
+    },
     {
       "id": "20260318-201455-rwnt",
       "title": "Repoez",
