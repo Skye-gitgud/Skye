@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260323-202140-u0ka",
+      "title": "Josh Atreides",
+      "commanders": [
+        "Josh Atreides"
+      ],
+      "dateStart": "2026-03-23T12:21:40.000Z",
+      "dateEnd": "2026-03-23T13:38:14.000Z",
+      "dateLabel": "3/23/2026, 8:21:40 PM - 3/23/2026, 9:38:14 PM",
+      "url": "https://Skye-gitgud.github.io/Skye/?report=20260323-202140-u0ka",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 53
+      }
+    },
+    {
       "id": "20260323-202140-emzg",
       "title": "Josh Atreides",
       "commanders": [
