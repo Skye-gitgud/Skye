@@ -6,6 +6,34 @@
   },
   "entries": [
     {
+      "id": "20260323-201555-1imo",
+      "title": "Josh Atreides",
+      "commanders": [
+        "Josh Atreides"
+      ],
+      "dateStart": "2026-03-23T12:15:55.000Z",
+      "dateEnd": "2026-03-23T13:38:14.000Z",
+      "dateLabel": "3/23/2026, 8:15:55 PM - 3/23/2026, 9:38:14 PM",
+      "url": "https://Skye-gitgud.github.io/Skye/?report=20260323-201555-1imo",
+      "summary": {
+        "borderlandsPct": 0.05263157894736842,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260318-205811-tz19",
       "title": "Josh Atreides, Sinaya Vjestica",
       "commanders": [
