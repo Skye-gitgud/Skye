@@ -1,10 +1,33 @@
 {
   "siteTheme": {
     "ui": "classic",
-    "paletteId": "Berry",
+    "paletteId": "Arcane",
     "kineticFont": "default"
   },
   "entries": [
+    {
+      "id": "20260324-081734-xga2",
+      "title": "Foxy Pikachu",
+      "commanders": [
+        "Foxy Pikachu"
+      ],
+      "dateStart": "2026-03-24T00:17:34.000Z",
+      "dateEnd": "2026-03-24T01:11:14.000Z",
+      "dateLabel": "3/24/2026, 8:17:34 AM - 3/24/2026, 9:11:14 AM",
+      "url": "https://Skye-gitgud.github.io/Skye/?report=20260324-081734-xga2",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 59
+      }
+    },
     {
       "id": "20260323-202140-u0ka",
       "title": "Josh Atreides",
