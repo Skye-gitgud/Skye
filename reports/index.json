@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260326-204303-q141",
+      "title": "Sinaya Vjestica",
+      "commanders": [
+        "Sinaya Vjestica"
+      ],
+      "dateStart": "2026-03-26T12:43:03.000Z",
+      "dateEnd": "2026-03-26T14:30:16.000Z",
+      "dateLabel": "3/26/2026, 8:43:03 PM - 3/26/2026, 10:30:16 PM",
+      "url": "https://Skye-gitgud.github.io/Skye/?report=20260326-204303-q141",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260325-222542-8c0w",
       "title": "Sinaya Vjestica",
       "commanders": [
