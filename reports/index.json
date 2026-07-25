@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260725-192603-acw9",
+      "title": "You Guard Myst",
+      "commanders": [
+        "You Guard Myst"
+      ],
+      "dateStart": "2026-07-25T11:26:03.000Z",
+      "dateEnd": "2026-07-25T11:57:49.000Z",
+      "dateLabel": "7/25/2026, 7:26:03 PM - 7/25/2026, 7:57:49 PM",
+      "url": "https://Skye-gitgud.github.io/Skye/?report=20260725-192603-acw9",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 46,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260621-182543-2bja",
       "title": "Sakura Lvcy",
       "commanders": [
